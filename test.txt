@@ -2,3 +2,6 @@ this is a test
 
 
 new line in master
+
+
+update from rebase_test:
